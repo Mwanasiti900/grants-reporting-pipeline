@@ -1,0 +1,10 @@
+# Job-search notes — never published
+NOTES_FOR_ELLY.md
+
+# Generated artefacts: both scripts recreate these in one second
+data/
+output/
+
+__pycache__/
+*.pyc
+.DS_Store
